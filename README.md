@@ -14,7 +14,7 @@ Author
 To use this application, you need to clone this repository to your local machine. You can do this by opening your terminal and running the following command:
 
 git clone https://github.com/popovicmarko/socialNetworkPopm.git
-Then open a folder in the terminal and type the command "pythona -m http.server"
+Then open a folder in the terminal and type the command "python -m http.server"
 
 ## Usage
 To use the application, you need to register and log in to the platform. After logging in, you can make posts, comment on posts, and like other users' posts. You can also edit your profile and add a profile picture.
