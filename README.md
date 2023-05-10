@@ -1,7 +1,7 @@
 # Project Name
 POPM Social Network
 
-Description
+## Description
 This is a simple social network that allows users to register, login, add profile pictures, edit their profiles, make posts, comment on posts, and like posts. The project is built using HTML, CSS, and plain JavaScript.
 
 ## Table of Contents <br />
@@ -13,9 +13,7 @@ Author
 ## Installation
 To use this application, you need to clone this repository to your local machine. You can do this by opening your terminal and running the following command:
 
-
-Copy code
-git clone https://github.com/[username]/simple-social-network.git
+git clone https://github.com/popovicmarko/socialNetworkPopm.git
 Then, open the index.html file in your favorite web browser.
 
 ## Usage
@@ -26,4 +24,4 @@ When a user registers, their data is stored in the database.
 When a user makes a post, it is added to the database and appears on the home page.
 When a user likes a post, the number of likes is updated and displayed on the post.
 ## Author
-This project was created by Marko Popovic. Contact information is available on their Github profile: 
+This project was created by Marko Popovic. Contact information is available on their Github profile: https://github.com/popovicmarko
