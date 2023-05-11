@@ -50,15 +50,11 @@ button{
 .custom-model{
     display: none;
     position: absolute;
-    top: 10%;
-    left: 0;
-    right: 0;
-    width: 100%;
+    top: 25%;
 }
-.custom-model button #closeModal{
-    width: 20px;
-    height: 20px;
-    color: white;
-    background-color: transparent;
-    font-weight: bold;
+#closeModal{
+    width: min-content;
+    position: absolute;
+    right: 2%;
+    top: 9%;
 }
