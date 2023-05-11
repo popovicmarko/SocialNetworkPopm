@@ -27,24 +27,25 @@
             <button id="registracija">Register</button>
         </div>
         <div class="custom-model">
-            <form action="Register" id="registrationForm" class="loginForm">
+            <form action="Register" id="registrationForm" class="loginForm" name="">
                 <button id="closeModal">X</button>
                 <h2>Register</h2>
                 <label for="userName">Username</label>
-                <input type="text" name="username" id="login_email">
+                <input type="text" name="korisnicko_ime" id="login_email">
 
                 <label for="email">Email</label>
-                <input type="email" name="email" id="login_email">
+                <input type="email" name="register_email" id="login_email">
 
                 <label for="password">Password</label>
-                <input type="password" name="password" id="login_password">
+                <input type="password" name="register_lozinka" id="login_password">
 
                 <label for="password">Again password</label>
-                <input type="password" name="password" id="login_password">
+                <input type="password" name="ponovi_lozinku" id="login_password">
                 <button>Login</button>
             </form>
         </div>
     </div>
+    <script src="/js/Validator.js"></script>
     <script src="/js/app.js"></script>
 </body>
 
