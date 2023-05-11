@@ -1,3 +1,7 @@
+let c = "10"
+let b = 7.5
+console.log(a - b)
+
 document.querySelector('#registracija').addEventListener('click', () => {
     document.querySelector('.custom-model').style.display = 'block';
 })
